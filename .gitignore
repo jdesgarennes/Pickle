@@ -1,4 +1,5 @@
 venv/
+TTS/stt-env/
 __pycache__/
 *.pyc
 *.pyo
